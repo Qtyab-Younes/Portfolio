@@ -71,8 +71,8 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="/portfolio/CV Youness Qtyab.pdf"
-            download="CV Youness Qtyab.pdf"
+            href="/portfolio/Youness Qtyab.pdf"
+            download="Youness Qtyab.pdf"
           >
             <FontAwesomeIcon
               icon={faFile}
