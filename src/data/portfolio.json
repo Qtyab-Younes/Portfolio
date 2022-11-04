@@ -1,0 +1,10 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/one.jpg",
+            "title": "Face Recognition",
+            "description": "React app detect faces with Clarifai Api",
+            "url": "https://face-recognition-656921.netlify.app/"
+        }
+    ]
+}
