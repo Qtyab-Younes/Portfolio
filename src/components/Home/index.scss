@@ -89,7 +89,7 @@
     
       .home-page .text-zone {
         position: initial;
-        width: 100%;
+        width: 150%;
         transform: none;
         padding: 10px;
         box-sizing: border-box;
@@ -98,13 +98,14 @@
       .home-page .flat-button {
         float: none;
         display: block;
-        margin: 20px auto 0 auto;
+        //margin: 20px auto 0 auto;
         width: 124px;
+        left: 0;
       }
     
       .logo-container {
         position: relative;
-        width: 100px;
+        width: 250px;
         height: auto;
         top: 50px;
         right: 0;
@@ -113,7 +114,7 @@
         left: 0;
       }
     
-      .logo-container svg {
+      .logo-container img {
         position: absolute;
         top: auto;
         right: auto;
