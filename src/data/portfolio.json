@@ -5,6 +5,12 @@
             "title": "Face Recognition",
             "description": "React app detect faces with Clarifai Api",
             "url": "https://face-recognition-656921.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/crown.jpg",
+            "title": "E-commerce Website",
+            "description": "E-com Website",
+            "url": "https://qtyab-clothes.netlify.app/"
         }
     ]
 }
